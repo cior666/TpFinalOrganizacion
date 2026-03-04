@@ -1,0 +1,16 @@
+# Build files
+build/
+build/*
+
+# ESP-IDF
+sdkconfig.old
+sdkconfig.defaults
+
+# Python cache
+__pycache__/
+
+# VSCode
+.vscode/
+
+# Mac / Linux
+.DS_Store
